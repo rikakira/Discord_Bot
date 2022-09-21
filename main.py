@@ -2,7 +2,7 @@ import discord
 import random
 
 intents = discord.Intents.default()
-token = "MTAyMjAzMzQ5OTcxNDIyODI5NA.GNr5Fa.m-6z2fCdWB9M-LDIQI0ZDEqbT_AZx_lpnWQtoY"
+token = "paste_your_token_here"
 
 client = discord.Client(intents=intents)
 
